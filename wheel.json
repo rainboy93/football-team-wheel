@@ -3,11 +3,7 @@
     {
       "league_name": "Premier League",
       "data": [
-        {
-          "name": "Arsenal",
-          "image": "arsenal",
-          "priority": 1
-        },
+        
         {
           "name": "Aston Villa",
           "image": "aston_villa",
