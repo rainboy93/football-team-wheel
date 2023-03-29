@@ -1,0 +1,1099 @@
+{
+  "wheel": [
+    {
+      "league_name": "Premier League",
+      "data": [
+        {
+          "name": "Arsenal",
+          "image": "arsenal",
+          "priority": 1
+        },
+        {
+          "name": "Aston Villa",
+          "image": "aston_villa",
+          "priority": 2
+        },
+        {
+          "name": "AFC Bournemouth",
+          "image": "bournemouth",
+          "priority": 2
+        },
+        {
+          "name": "Brighton & Hove Albion",
+          "image": "brighton_hove_albion",
+          "priority": 2
+        },
+        {
+          "name": "Fulham",
+          "image": "fulham",
+          "priority": 1
+        },
+        {
+          "name": "Chelsea",
+          "image": "chelsea",
+          "priority": 1
+        },
+        {
+          "name": "Crystal Palace",
+          "image": "crystal_palace",
+          "priority": 2
+        },
+        {
+          "name": "Everton",
+          "image": "everton",
+          "priority": 2
+        },
+        {
+          "name": "Leicester City",
+          "image": "leicester_city",
+          "priority": 2
+        },
+        {
+          "name": "Liverpool",
+          "image": "liverpool",
+          "priority": 1
+        },
+        {
+          "name": "Manchester City",
+          "image": "manchester_city",
+          "priority": 1
+        },
+        {
+          "name": "Manchester United",
+          "image": "manchester_united",
+          "priority": 1
+        },
+        {
+          "name": "Newcastle United",
+          "image": "newcastle_united",
+          "priority": 2
+        },
+        {
+          "name": "Brentford",
+          "image": "brentford",
+          "priority": 2
+        },
+        {
+          "name": "Nottingham Forest",
+          "image": "nottingham_forest",
+          "priority": 2
+        },
+        {
+          "name": "Southampton",
+          "image": "southampton",
+          "priority": 2
+        },
+        {
+          "name": "Tottenham Hotspur",
+          "image": "tottenham_hotspur",
+          "priority": 1
+        },
+        {
+          "name": "Leeds United",
+          "image": "leed_united",
+          "priority": 2
+        },
+        {
+          "name": "West Ham United",
+          "image": "west_ham_united",
+          "priority": 2
+        },
+        {
+          "name": "Wolverhampton Wanderers",
+          "image": "wolverhampton_wanderers",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "Serie A",
+      "data": [
+        {
+          "name": "Atalanta",
+          "image": "atalanta",
+          "priority": 2
+        },
+        {
+          "name": "Bologna",
+          "image": "bologna",
+          "priority": 2
+        },
+        {
+          "name": "Monza",
+          "image": "monza",
+          "priority": 2
+        },
+        {
+          "name": "Empoli",
+          "image": "empoli",
+          "priority": 2
+        },
+        {
+          "name": "Fiorentina",
+          "image": "fiorentina",
+          "priority": 2
+        },
+        {
+          "name": "Salernitana",
+          "image": "salernitana",
+          "priority": 2
+        },
+        {
+          "name": "Hellas Verona",
+          "image": "hellas_verona",
+          "priority": 2
+        },
+        {
+          "name": "Inter",
+          "image": "internazionale",
+          "priority": 2
+        },
+        {
+          "name": "Juventus",
+          "image": "juventus",
+          "priority": 2
+        },
+        {
+          "name": "Lazio",
+          "image": "lazio",
+          "priority": 2
+        },
+        {
+          "name": "Lecce",
+          "image": "lecce",
+          "priority": 2
+        },
+        {
+          "name": "Milan",
+          "image": "milan",
+          "priority": 2
+        },
+        {
+          "name": "Napoli",
+          "image": "napoli",
+          "priority": 1
+        },
+        {
+          "name": "Spezia",
+          "image": "spezia",
+          "priority": 2
+        },
+        {
+          "name": "Roma",
+          "image": "roma",
+          "priority": 1
+        },
+        {
+          "name": "Sampdoria",
+          "image": "sampdoria",
+          "priority": 2
+        },
+        {
+          "name": "Sassuolo",
+          "image": "sassuolo",
+          "priority": 2
+        },
+        {
+          "name": "Cremonese",
+          "image": "cremonese",
+          "priority": 2
+        },
+        {
+          "name": "Torino",
+          "image": "torino",
+          "priority": 2
+        },
+        {
+          "name": "Udinese",
+          "image": "udinese",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "Other Teams",
+      "data": [
+        {
+          "name": "AEK Athens",
+          "image": "aek_athens",
+          "priority": 2
+        },
+        {
+          "name": "Beerschot Wilrijk",
+          "image": "beerschot_wilrijk",
+          "priority": 2
+        },
+        {
+          "name": "Dinamo Zagreb",
+          "image": "dinamo_zagreb",
+          "priority": 2
+        },
+        {
+          "name": "Dynamo Kyiv",
+          "image": "dynamo_kyiv",
+          "priority": 2
+        },
+        {
+          "name": "Olympiakos Piraeus",
+          "image": "olympiakos_piraeus",
+          "priority": 2
+        },
+        {
+          "name": "Palermo",
+          "image": "palermo",
+          "priority": 2
+        },
+        {
+          "name": "Panathinaikos",
+          "image": "panathinaikos",
+          "priority": 2
+        },
+        {
+          "name": "PAOK",
+          "image": "paok",
+          "priority": 2
+        },
+        {
+          "name": "Shakhtar Donetsk",
+          "image": "shakhtar_donetsk",
+          "priority": 2
+        },
+        {
+          "name": "Slavia Praha",
+          "image": "slavia_praha",
+          "priority": 2
+        },
+        {
+          "name": "Sparta Praha",
+          "image": "sparta_praha",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "Ligue 1",
+      "data": [
+        {
+          "name": "Lens",
+          "image": "lens",
+          "priority": 2
+        },
+        {
+          "name": "Angers",
+          "image": "angers_sco",
+          "priority": 2
+        },
+        {
+          "name": "Monaco",
+          "image": "as_monaco",
+          "priority": 2
+        },
+        {
+          "name": "Lorient",
+          "image": "lorient",
+          "priority": 2
+        },
+        {
+          "name": "Brest",
+          "image": "brest",
+          "priority": 2
+        },
+        {
+          "name": "Clermont Foot",
+          "image": "clermont_foot",
+          "priority": 2
+        },
+        {
+          "name": "Lille",
+          "image": "lille",
+          "priority": 2
+        },
+        {
+          "name": "Troyes",
+          "image": "troyes",
+          "priority": 2
+        },
+        {
+          "name": "Montpellier",
+          "image": "montpellier",
+          "priority": 2
+        },
+        {
+          "name": "Nantes",
+          "image": "nantes",
+          "priority": 2
+        },
+        {
+          "name": "Nice",
+          "image": "nice",
+          "priority": 2
+        },
+        {
+          "name": "AC Ajaccio",
+          "image": "ac_ajaccio",
+          "priority": 2
+        },
+        {
+          "name": "Lyon",
+          "image": "olympique_lyonnais",
+          "priority": 1
+        },
+        {
+          "name": "Marseille",
+          "image": "olympique_marseille",
+          "priority": 2
+        },
+        {
+          "name": "Paris Saint-Germain",
+          "image": "psg",
+          "priority": 1
+        },
+        {
+          "name": "Rennes",
+          "image": "rennes",
+          "priority": 2
+        },
+        {
+          "name": "Auxerre",
+          "image": "auxerre",
+          "priority": 2
+        },
+        {
+          "name": "Reims",
+          "image": "stade_de_reims",
+          "priority": 2
+        },
+        {
+          "name": "Strasbourg",
+          "image": "strasbourg",
+          "priority": 2
+        },
+        {
+          "name": "Toulouse",
+          "image": "toulouse",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "La Liga",
+      "data": [
+        {
+          "name": "Athletic Club",
+          "image": "athletic_club_bilbao",
+          "priority": 2
+        },
+        {
+          "name": "Atlético de Madrid",
+          "image": "atletico_de_madrid",
+          "priority": 1
+        },
+        {
+          "name": "Barcelona",
+          "image": "barcelona",
+          "priority": 1
+        },
+        {
+          "name": "Celta Vigo",
+          "image": "celta_de_vigo",
+          "priority": 2
+        },
+        {
+          "name": "Rayo Vallecano",
+          "image": "rayo_vallecano",
+          "priority": 2
+        },
+        {
+          "name": "Espanyol",
+          "image": "espanyol",
+          "priority": 2
+        },
+        {
+          "name": "Getafe",
+          "image": "getafe_cf",
+          "priority": 2
+        },
+        {
+          "name": "Girona",
+          "image": "girona",
+          "priority": 2
+        },
+        {
+          "name": "Almeria",
+          "image": "almeria",
+          "priority": 2
+        },
+        {
+          "name": "Cadiz",
+          "image": "cadiz",
+          "priority": 2
+        },
+        {
+          "name": "Mallorca",
+          "image": "mallorca",
+          "priority": 2
+        },
+        {
+          "name": "Osasuna",
+          "image": "osasuna",
+          "priority": 2
+        },
+        {
+          "name": "Real Betis",
+          "image": "real_betis",
+          "priority": 2
+        },
+        {
+          "name": "Real Madrid",
+          "image": "real_madrid",
+          "priority": 1
+        },
+        {
+          "name": "Real Sociedad",
+          "image": "real_sociedad",
+          "priority": 2
+        },
+        {
+          "name": "Real Valladolid",
+          "image": "real_valladolid",
+          "priority": 2
+        },
+        {
+          "name": "Elche",
+          "image": "elche",
+          "priority": 2
+        },
+        {
+          "name": "Sevilla FC",
+          "image": "sevilla_fc",
+          "priority": 1
+        },
+        {
+          "name": "Valencia",
+          "image": "valencia",
+          "priority": 2
+        },
+        {
+          "name": "Villarreal",
+          "image": "villarreal",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "Europe",
+      "data": [
+        {
+          "name": "Spain",
+          "image": "spain",
+          "priority": 2
+        },
+        {
+          "name": "Germany",
+          "image": "germany",
+          "priority": 2
+        },
+        {
+          "name": "France",
+          "image": "france",
+          "priority": 2
+        },
+        {
+          "name": "Switzerland",
+          "image": "switzerland",
+          "priority": 2
+        },
+        {
+          "name": "Serbia",
+          "image": "serbia",
+          "priority": 2
+        },
+        {
+          "name": "Portugal",
+          "image": "portugal",
+          "priority": 2
+        },
+        {
+          "name": "Poland",
+          "image": "poland",
+          "priority": 2
+        },
+        {
+          "name": "Netherlands",
+          "image": "netherlands",
+          "priority": 2
+        },
+        {
+          "name": "Italy",
+          "image": "italy",
+          "priority": 2
+        },
+        {
+          "name": "England",
+          "image": "england",
+          "priority": 2
+        },
+        {
+          "name": "Croatia",
+          "image": "croatia",
+          "priority": 2
+        },
+        {
+          "name": "Belgium",
+          "image": "belgium",
+          "priority": 2
+        },
+        {
+          "name": "Ukraine",
+          "image": "ukraine",
+          "priority": 1
+        },
+        {
+          "name": "Turkey",
+          "image": "turkey",
+          "priority": 2
+        },
+        {
+          "name": "Russia",
+          "image": "russia",
+          "priority": 2
+        },
+        {
+          "name": "Denmark",
+          "image": "denmark",
+          "priority": 2
+        },
+        {
+          "name": "Austria",
+          "image": "austria",
+          "priority": 2
+        },
+        {
+          "name": "Wales",
+          "image": "wales",
+          "priority": 2
+        },
+        {
+          "name": "Sweden",
+          "image": "sweden",
+          "priority": 2
+        },
+        {
+          "name": "Slovenia",
+          "image": "slovenia",
+          "priority": 2
+        },
+        {
+          "name": "Slovakia",
+          "image": "slovakia",
+          "priority": 2
+        },
+        {
+          "name": "Scotland",
+          "image": "scotland",
+          "priority": 2
+        },
+        {
+          "name": "Norway",
+          "image": "norway",
+          "priority": 2
+        },
+        {
+          "name": "Ireland",
+          "image": "ireland",
+          "priority": 2
+        },
+        {
+          "name": "Iceland",
+          "image": "iceland",
+          "priority": 2
+        },
+        {
+          "name": "Greece",
+          "image": "greece",
+          "priority": 2
+        },
+        {
+          "name": "Czech Republic",
+          "image": "czech_republic",
+          "priority": 2
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "image": "bosnia_and_herzegovina",
+          "priority": 1
+        },
+        {
+          "name": "Romania",
+          "image": "romania",
+          "priority": 2
+        },
+        {
+          "name": "North Macedonia",
+          "image": "macedonia",
+          "priority": 2
+        },
+        {
+          "name": "Montenegro",
+          "image": "montenegro",
+          "priority": 2
+        },
+        {
+          "name": "Hungary",
+          "image": "hungary",
+          "priority": 2
+        },
+        {
+          "name": "Georgia",
+          "image": "georgia",
+          "priority": 2
+        },
+        {
+          "name": "Albania",
+          "image": "albania",
+          "priority": 2
+        },
+        {
+          "name": "Northern Ireland",
+          "image": "northern_ireland",
+          "priority": 2
+        },
+        {
+          "name": "Kosovo",
+          "image": "kosovo",
+          "priority": 2
+        },
+        {
+          "name": "Israel",
+          "image": "israel",
+          "priority": 2
+        },
+        {
+          "name": "Finland",
+          "image": "finland",
+          "priority": 2
+        },
+        {
+          "name": "Bulgaria",
+          "image": "bulgaria",
+          "priority": 2
+        },
+        {
+          "name": "Belarus",
+          "image": "belarus",
+          "priority": 2
+        },
+        {
+          "name": "Moldova",
+          "image": "moldova",
+          "priority": 2
+        },
+        {
+          "name": "Kazakhstan",
+          "image": "kazakhstan",
+          "priority": 2
+        },
+        {
+          "name": "Cyprus",
+          "image": "cyprus",
+          "priority": 1
+        },
+        {
+          "name": "Azerbaijan",
+          "image": "azerbaijan",
+          "priority": 2
+        },
+        {
+          "name": "Armenia",
+          "image": "armenia",
+          "priority": 2
+        },
+        {
+          "name": "Luxembourg",
+          "image": "luxembourg",
+          "priority": 2
+        },
+        {
+          "name": "Lithuania",
+          "image": "lithuania",
+          "priority": 2
+        },
+        {
+          "name": "Liechtenstein",
+          "image": "liechtenstein",
+          "priority": 2
+        },
+        {
+          "name": "Latvia",
+          "image": "latvia",
+          "priority": 2
+        },
+        {
+          "name": "Faroe Islands",
+          "image": "faroe_islands",
+          "priority": 2
+        },
+        {
+          "name": "Estonia",
+          "image": "estonia",
+          "priority": 2
+        },
+        {
+          "name": "San Marino",
+          "image": "san_marino",
+          "priority": 2
+        },
+        {
+          "name": "Malta",
+          "image": "malta",
+          "priority": 2
+        },
+        {
+          "name": "Gibraltar",
+          "image": "gibraltar",
+          "priority": 2
+        },
+        {
+          "name": "Andorra",
+          "image": "andorra",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "Bundesliga",
+      "data": [
+        {
+          "name": "Bayern München",
+          "image": "bayern_munchen",
+          "priority": 2
+        },
+        {
+          "name": "Union Berlin",
+          "image": "union_berlin",
+          "priority": 2
+        },
+        {
+          "name": "Borussia Dortmund",
+          "image": "borussia_dortmund",
+          "priority": 2
+        },
+        {
+          "name": "SC Freiburg",
+          "image": "sc_freiburg",
+          "priority": 2
+        },
+        {
+          "name": "RB Leipzig",
+          "image": "rb_leipzig",
+          "priority": 2
+        },
+        {
+          "name": "Eintracht Frankfurt",
+          "image": "eintracht_frankfurt",
+          "priority": 2
+        },
+        {
+          "name": "Wolfsburg",
+          "image": "wolfsburg",
+          "priority": 2
+        },
+        {
+          "name": "Borussia M'Gladbach",
+          "image": "borussia_mgladbach",
+          "priority": 2
+        },
+        {
+          "name": "Bayer Leverkusen",
+          "image": "bayer_leverkusen",
+          "priority": 2
+        },
+        {
+          "name": "Werder Bremen",
+          "image": "werder_bremen",
+          "priority": 2
+        },
+        {
+          "name": "1. FC Köln",
+          "image": "fc_koln",
+          "priority": 2
+        },
+        {
+          "name": "Mainz 05",
+          "image": "mainz_05",
+          "priority": 2
+        },
+        {
+          "name": "FC Augsburg",
+          "image": "fc_augsburg",
+          "priority": 1
+        },
+        {
+          "name": "VfB Stuttgart",
+          "image": "vfb_stuttgart",
+          "priority": 2
+        },
+        {
+          "name": "TSG Hoffenheim",
+          "image": "tsg_hoffenheim",
+          "priority": 1
+        },
+        {
+          "name": "VfL Bochum",
+          "image": "vfl_bochum",
+          "priority": 2
+        },
+        {
+          "name": "Hertha BSC",
+          "image": "hertha_bsc",
+          "priority": 2
+        },
+        {
+          "name": "Schalke 04",
+          "image": "schalke_04",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "Asia",
+      "data": [
+        {
+          "name": "Iran",
+          "image": "iran",
+          "priority": 2
+        },
+        {
+          "name": "Republic Of Korea",
+          "image": "korea_south",
+          "priority": 2
+        },
+        {
+          "name": "Japan",
+          "image": "japan",
+          "priority": 2
+        },
+        {
+          "name": "Qatar",
+          "image": "qatar",
+          "priority": 2
+        },
+        {
+          "name": "Uzbekistan",
+          "image": "uzbekistan",
+          "priority": 2
+        },
+        {
+          "name": "United Arab Emirates",
+          "image": "united_arab_emirates",
+          "priority": 2
+        },
+        {
+          "name": "Saudi Arabia",
+          "image": "saudi_arabia",
+          "priority": 2
+        },
+        {
+          "name": "Iraq",
+          "image": "iraq",
+          "priority": 2
+        },
+        {
+          "name": "China",
+          "image": "china",
+          "priority": 2
+        },
+        {
+          "name": "Thailand",
+          "image": "thailand",
+          "priority": 2
+        },
+        {
+          "name": "Jordan",
+          "image": "jordan",
+          "priority": 2
+        },
+        {
+          "name": "Oman",
+          "image": "oman",
+          "priority": 2
+        },
+        {
+          "name": "Lebanon",
+          "image": "lebanon",
+          "priority": 1
+        },
+        {
+          "name": "Kuwait",
+          "image": "kuwait",
+          "priority": 2
+        },
+        {
+          "name": "Korea DPR",
+          "image": "korea_north",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "America",
+      "data": [
+        {
+          "name": "Brazil",
+          "image": "brazil",
+          "priority": 2
+        },
+        {
+          "name": "Uruguay",
+          "image": "uruguay",
+          "priority": 2
+        },
+        {
+          "name": "Colombia",
+          "image": "colombia",
+          "priority": 2
+        },
+        {
+          "name": "Argentina",
+          "image": "argentina",
+          "priority": 2
+        },
+        {
+          "name": "Mexico",
+          "image": "mexico",
+          "priority": 2
+        },
+        {
+          "name": "Chile",
+          "image": "chile",
+          "priority": 2
+        },
+        {
+          "name": "Venezuela",
+          "image": "venezuela",
+          "priority": 2
+        },
+        {
+          "name": "Paraguay",
+          "image": "paraguay",
+          "priority": 2
+        },
+        {
+          "name": "Ecuador",
+          "image": "ecuador",
+          "priority": 2
+        },
+        {
+          "name": "USA",
+          "image": "usa",
+          "priority": 2
+        },
+        {
+          "name": "Peru",
+          "image": "peru",
+          "priority": 2
+        },
+        {
+          "name": "Costa Rica",
+          "image": "costa_rica",
+          "priority": 2
+        },
+        {
+          "name": "Panama",
+          "image": "panama",
+          "priority": 1
+        },
+        {
+          "name": "Honduras",
+          "image": "honduras",
+          "priority": 2
+        },
+        {
+          "name": "Bolivia",
+          "image": "bolivia",
+          "priority": 1
+        },
+        {
+          "name": "Jamaica",
+          "image": "jamaica",
+          "priority": 2
+        }
+      ]
+    },
+    {
+      "league_name": "Africa",
+      "data": [
+        {
+          "name": "Senegal",
+          "image": "senegal",
+          "priority": 2
+        },
+        {
+          "name": "Morocco",
+          "image": "morocco",
+          "priority": 2
+        },
+        {
+          "name": "Cote d'Ivoire",
+          "image": "cote_d_ivoire",
+          "priority": 2
+        },
+        {
+          "name": "Algeria",
+          "image": "algeria",
+          "priority": 2
+        },
+        {
+          "name": "Tunisia",
+          "image": "tunisia",
+          "priority": 2
+        },
+        {
+          "name": "Nigeria",
+          "image": "nigeria",
+          "priority": 2
+        },
+        {
+          "name": "Mali",
+          "image": "mali",
+          "priority": 2
+        },
+        {
+          "name": "Ghana",
+          "image": "ghana",
+          "priority": 2
+        },
+        {
+          "name": "Egypt",
+          "image": "egypt",
+          "priority": 2
+        },
+        {
+          "name": "Cameroon",
+          "image": "cameroon",
+          "priority": 2
+        },
+        {
+          "name": "Guinea",
+          "image": "guinea",
+          "priority": 2
+        },
+        {
+          "name": "Burkina Faso",
+          "image": "burkina_faso",
+          "priority": 2
+        },
+        {
+          "name": "South Africa",
+          "image": "south_africa",
+          "priority": 1
+        },
+        {
+          "name": "Zambia",
+          "image": "zambia",
+          "priority": 2
+        }
+      ]
+    }
+  ]
+}
