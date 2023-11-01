@@ -44,8 +44,8 @@
           "priority": 2
         },
         {
-          "name": "Leicester City",
-          "image": "leicester_city",
+          "name": "Luton Town",
+          "image": "8346",
           "priority": 2
         },
         {
@@ -79,8 +79,8 @@
           "priority": 2
         },
         {
-          "name": "Southampton",
-          "image": "southampton",
+          "name": "Burnley",
+          "image": "8191",
           "priority": 2
         },
         {
@@ -89,8 +89,8 @@
           "priority": 1
         },
         {
-          "name": "Leeds United",
-          "image": "leed_united",
+          "name": "Sheffield United",
+          "image": "8657",
           "priority": 2
         },
         {
@@ -174,8 +174,8 @@
           "priority": 1
         },
         {
-          "name": "Spezia",
-          "image": "spezia",
+          "name": "Frosinone",
+          "image": "9891",
           "priority": 2
         },
         {
@@ -184,8 +184,8 @@
           "priority": 1
         },
         {
-          "name": "Sampdoria",
-          "image": "sampdoria",
+          "name": "Cagliari",
+          "image": "8529",
           "priority": 2
         },
         {
@@ -194,8 +194,8 @@
           "priority": 2
         },
         {
-          "name": "Cremonese",
-          "image": "cremonese",
+          "name": "Genoa",
+          "image": "10233",
           "priority": 2
         },
         {
@@ -279,11 +279,6 @@
           "priority": 2
         },
         {
-          "name": "Angers",
-          "image": "angers_sco",
-          "priority": 2
-        },
-        {
           "name": "Monaco",
           "image": "as_monaco",
           "priority": 2
@@ -309,11 +304,6 @@
           "priority": 2
         },
         {
-          "name": "Troyes",
-          "image": "troyes",
-          "priority": 2
-        },
-        {
           "name": "Montpellier",
           "image": "montpellier",
           "priority": 2
@@ -329,8 +319,8 @@
           "priority": 2
         },
         {
-          "name": "AC Ajaccio",
-          "image": "ac_ajaccio",
+          "name": "Metz",
+          "image": "8550",
           "priority": 2
         },
         {
@@ -354,8 +344,8 @@
           "priority": 2
         },
         {
-          "name": "Auxerre",
-          "image": "auxerre",
+          "name": "Le Havre",
+          "image": "9746",
           "priority": 2
         },
         {
@@ -404,11 +394,6 @@
           "priority": 2
         },
         {
-          "name": "Espanyol",
-          "image": "espanyol",
-          "priority": 2
-        },
-        {
           "name": "Getafe",
           "image": "getafe_cf",
           "priority": 2
@@ -454,16 +439,6 @@
           "priority": 2
         },
         {
-          "name": "Real Valladolid",
-          "image": "real_valladolid",
-          "priority": 2
-        },
-        {
-          "name": "Elche",
-          "image": "elche",
-          "priority": 2
-        },
-        {
           "name": "Sevilla FC",
           "image": "sevilla_fc",
           "priority": 1
@@ -476,6 +451,21 @@
         {
           "name": "Villarreal",
           "image": "villarreal",
+          "priority": 2
+        },
+        {
+          "name": "Granada",
+          "image": "7878",
+          "priority": 2
+        },
+        {
+          "name": "Las Palmas",
+          "image": "8306",
+          "priority": 2
+        },
+        {
+          "name": "Eibar",
+          "image": "8372",
           "priority": 2
         }
       ]
@@ -829,11 +819,6 @@
           "priority": 1
         },
         {
-          "name": "VfB Stuttgart",
-          "image": "vfb_stuttgart",
-          "priority": 2
-        },
-        {
           "name": "TSG Hoffenheim",
           "image": "tsg_hoffenheim",
           "priority": 1
@@ -844,13 +829,18 @@
           "priority": 2
         },
         {
-          "name": "Hertha BSC",
-          "image": "hertha_bsc",
+          "name": "SV Darmstadt",
+          "image": "8262",
           "priority": 2
         },
         {
-          "name": "Schalke 04",
-          "image": "schalke_04",
+          "name": "FC Heidenheim",
+          "image": "94937",
+          "priority": 2
+        },
+        {
+          "name": "VfB Stuttgart",
+          "image": "vfb_stuttgart",
           "priority": 2
         }
       ]
